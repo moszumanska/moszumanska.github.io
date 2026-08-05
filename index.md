@@ -6,6 +6,6 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ### Anioł Stróż
 
-Anioł Stróż.jpg
+![Anioł Stróż](Anioł%20Stróż.jpg)
 
 ## Kontakt: moszumanskamaria[at]gmail.com
