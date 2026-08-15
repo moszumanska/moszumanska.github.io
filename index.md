@@ -8,7 +8,7 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 ![Anioł Stróż](Anioł%20Stróż.jpg)
 
 ## Trójca Święta
-2![Trójca Święta](Ikona-Trojcy-Swietej.jpg)
+![Trójca Święta](Ikona-Trojcy-Swietej.jpg)
  
 
 ## Kontakt: moszumanskamaria[at]gmail.com
