@@ -10,5 +10,8 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 ## Trójca Święta
 ![Trójca Święta](Ikona-Trojcy-Swietej.jpg)
  
+## Oranta
+
+![Oranta.jpg
 
 ## Kontakt: moszumanskamaria[at]gmail.com
