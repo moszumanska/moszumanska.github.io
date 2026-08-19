@@ -12,6 +12,6 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
  
 ## Oranta
 
-![Oranta.jpg
+<img src="Oranta.jpg" alt="Ikona Oranta" width="500">
 
 ## Kontakt: moszumanskamaria[at]gmail.com
