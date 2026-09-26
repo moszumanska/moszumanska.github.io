@@ -3,9 +3,17 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ## Portfolio
 
+### Mandylion
+
+![Mandylion](Mandylion.jpg)
+
+### Niosąca w chuście
+
+![Niosąca w chuście](niosąca-w-chuscie.jpg)
+
 ### Matka Boska Włodzimierska
 
-![Trójca Święta](matka-boska-wlodzimierska.jpg)
+![Matka Boska Włodzimierska](matka-boska-wlodzimierska.jpg)
     
 
 ### Anioł Stróż
