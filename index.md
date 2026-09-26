@@ -18,7 +18,7 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ### Anioł Stróż
 
-![Anioł Stróż](Anioł%20Stróż.jpg)
+![Anioł Stróż](aniol-stroz.jpg)
 
 ## Trójca Święta
 ![Trójca Święta](Ikona-Trojcy-Swietej.jpg)
