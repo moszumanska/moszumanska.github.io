@@ -9,7 +9,7 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ### Niosąca w chuście
 
-![Niosąca w chuście](niosąca-w-chuscie.jpg)
+![Niosąca w chuście](Niosaca-w-chuscie.jpg)
 
 ### Matka Boska Włodzimierska
 
