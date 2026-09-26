@@ -3,6 +3,12 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ## Portfolio
 
+### Matka Boska Włodzimierska
+
+<img src="images/matka-boska-wlodzimierska.jpg"
+     alt="Ikona Matki Boskiej Włodzimierskiej"
+     width="600">
+
 ### Anioł Stróż
 
 ![Anioł Stróż](Anioł%20Stróż.jpg)
