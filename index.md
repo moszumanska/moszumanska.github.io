@@ -5,9 +5,8 @@ Od 4 lat zajmuję się pisaniem ikon. To przestrzeń ciszy, skupienia i uważno�
 
 ### Matka Boska Włodzimierska
 
-<img src="images/matka-boska-wlodzimierska.jpg"
-     alt="Ikona Matki Boskiej Włodzimierskiej"
-     width="600">
+![Trójca Święta](matka-boska-wlodzimierska.jpg)
+    
 
 ### Anioł Stróż
 
